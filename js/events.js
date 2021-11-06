@@ -1,10 +1,5 @@
-// MIT licensed, Written by Abdul Khan and Alexey Novak, 2014
-// version 0.1.3
 
 var utils = utils || {};
-
-// Publish/Subscribe pattern adapted from
-// http://davidwalsh.name/pubsub-javascript
 (function () {
 
     utils.Events = function () {
